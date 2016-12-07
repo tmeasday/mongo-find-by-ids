@@ -1,0 +1,23 @@
+{
+  "name": "mongo-find-by-ids",
+  "version": "1.0.0",
+  "description": "Basic function to find a list of mongo documents by id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmeasday/mongo-find-by-ids.git"
+  },
+  "author": "Tom Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmeasday/mongo-find-by-ids/issues"
+  },
+  "homepage": "https://github.com/tmeasday/mongo-find-by-ids#readme",
+  "engines": ">= 4.0.0",
+  "peerDependencies": {
+    "mongodb": "2.x"
+  }
+}
